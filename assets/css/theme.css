@@ -241,14 +241,14 @@ a:hover,a:focus {
 	background-size:cover;
 	-o-background-size:cover;
 }
-.intro .intro-0059-body {
+.intro-0059 .intro-0059-body {
 	display:table-cell;
 	vertical-align:middle;
 }
-.intro .intro-0059-body .brand-heading {
+.intro-0059 .intro-0059-body .brand-heading {
 	font-size:40px;
 }
-.intro .intro-0059-body .intro-text {
+.intro-0059 .intro-0059-body .intro-text {
 	font-size:18px;
 }
 @media(min-width:768px) {

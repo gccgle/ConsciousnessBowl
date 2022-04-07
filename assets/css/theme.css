@@ -241,7 +241,36 @@ a:hover,a:focus {
 	background-size:cover;
 	-o-background-size:cover;
 }
-
+.intro .intro-0059-body {
+	display:table-cell;
+	vertical-align:middle;
+}
+.intro .intro-0059-body .brand-heading {
+	font-size:40px;
+}
+.intro .intro-0059-body .intro-text {
+	font-size:18px;
+}
+@media(min-width:768px) {
+	.intro-0059 {
+			height:100vh;
+			padding:0;
+	}
+	.intro-0059 .intro-0059-body .brand-heading {
+			font-size:60px;
+			margin-top:90px;
+			margin-bottom:20px;
+			border-top:2px solid #fff;
+			border-bottom:2px solid #fff;
+			display:inline-block;
+			padding:7px 0;
+	}
+	.intro-0059 .intro-0059-body .intro-0059-text {
+			font-size:20px;
+				font-weight:300;
+				letter-spacing:3px;
+	}
+}
 .btn-circle {
 	width:50px;
 	height:50px;

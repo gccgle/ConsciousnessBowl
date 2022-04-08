@@ -282,7 +282,8 @@ a:hover,a:focus {
 	text-align:center;
 	border:2px solid #fff;
 	border-radius:100%!important;
-	font-size:20px;
+	font-size:18px;
+	font-family:Georgia,Times,"Times New Roman",serif;
 	color:#fff;
 	background:0 0;
 	-webkit-transition:background .3s ease-in-out;

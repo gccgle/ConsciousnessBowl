@@ -342,6 +342,7 @@ a:hover,a:focus {
 	padding-top:40px;
 	padding-bottom:40px;
 	clear:both;
+	font-family:Georgia,Times,"Times New Roman",serif;
 }
 @media(min-width:767px) {
 	.content-section {

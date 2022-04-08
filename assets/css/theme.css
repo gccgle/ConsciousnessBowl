@@ -230,7 +230,50 @@ a:hover,a:focus {
 				letter-spacing:3px;
 	}
 }
-
+.intro2 {
+	display:table;
+	width:100%;
+	height:auto;
+	padding:100px 0 100px 0;
+	text-align:center;
+	color:#fff;
+	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.18)),url("../img/0059.png");
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	-o-background-size:cover;
+}
+.intro2 .intro2-body {
+	display:table-cell;
+	vertical-align:middle;
+}
+.intro2 .intro2-body .brand-heading {
+	font-size:40px;
+}
+.intro2 .intro2-body .intro2-text {
+	font-size:16px;
+	font-family:Georgia,Times,"Times New Roman",serif;
+}
+@media(min-width:768px) {
+	.intro2 {
+			height:100vh;
+			padding:0;
+	}
+	.intro2 .intro2-body .brand-heading {
+			font-size:60px;
+			margin-top:90px;
+			margin-bottom:20px;
+			border-top:2px solid #fff;
+			border-bottom:2px solid #fff;
+			display:inline-block;
+			padding:7px 0;
+	}
+	.intro2 .intro2-body .intro2-text {
+			font-size:20px;
+				font-weight:300;
+				letter-spacing:3px;
+	}
+}
 .intro-0059 {
 	display:table;
 	width:100%;

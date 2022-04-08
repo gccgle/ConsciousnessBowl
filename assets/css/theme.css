@@ -212,7 +212,7 @@ a:hover,a:focus {
 }
 @media(min-width:768px) {
 	.intro1 {
-			height:100vh;
+
 			padding:0;
 	}
 	.intro1 .intro1-body .brand-heading {

@@ -206,7 +206,8 @@ a:hover,a:focus {
 	font-size:40px;
 }
 .intro1 .intro1-body .intro-text {
-	font-size:18px;
+	font-size:16px;
+	font-family:Georgia,Times,"Times New Roman",serif;
 }
 @media(min-width:768px) {
 	.intro1 {
@@ -250,7 +251,8 @@ a:hover,a:focus {
 	font-size:40px;
 }
 .intro-0059 .intro-0059-body .intro-text {
-	font-size:18px;
+	font-size:16px;
+	font-family:Georgia,Times,"Times New Roman",serif;
 }
 @media(min-width:768px) {
 	.intro-0059 {
